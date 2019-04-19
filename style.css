@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico|Viga');
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #FFFAFA !important;
+}
+
+header h5 {
+  font-family: 'Pacifico', cursive;
+  color: #1a1a1a;
+}
+
+header h1 {
+  color: #FF6347;
+  font-family: 'Viga', sans-serif;
+}
+
+header p {
+  font-family: 'Viga', sans-serif;
+  font-size: 14px;
+  color: #1B4E58;
+}
+
+form {
+  font-family: 'Viga', sans-serif !important;
+  color: #1a1a1a;
+}
+
+form button {
+  display: block;
+  margin: 0 auto;
+  background: #3742fa;
+  border: none;
+  outline: none;
+  padding: 10px 15px;
+  color: #f8f8ff;
+  border-radius: 4px;
+}
+
+
+.showHide {
+  display: none;
+}
+
+.show {
+  display: block;
+}
+
+.border-alert {
+  border: 1px solid red !important;
+}
